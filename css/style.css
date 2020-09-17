@@ -34,6 +34,7 @@ img{
     width: 525px;
     object-fit: cover;
     max-width: 100%;
+    background-color: #000000;
   }
   
   
