@@ -44,20 +44,25 @@ img{
 }
 
 #red{
+  
+  text-align: right;
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   background-color: #ff0000;
-  text-align: right;
+  
 }
 
 #blue{
+  
+  text-align: left;
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   background-color: #0000ff;
-  text-align: left;
+  
 }
 
 #yellow{
+  text-align: right
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   background-color: #ffff00;
@@ -65,6 +70,7 @@ img{
 }
 
 #yellow h2{
+  text-align: right;
   color: #000000;
   font-size: 30px;
   text-shadow:5px 5px 2px #c7e2c7;
@@ -76,10 +82,11 @@ img{
  }
 
 #green{
+  text-align: left;
   background-color: #008000;
   padding: 25px 25px 25px 25px;
   min-height: 150px;
-  text-align: left;
+  
 }
 
 footer{
