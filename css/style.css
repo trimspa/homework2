@@ -19,8 +19,7 @@ body{
     text-align: center;
     font-size: 30px;
     text-shadow:5px 5px 2px #808080;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-      
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;    
   }
   p{
     background-color: #000000;
@@ -28,7 +27,6 @@ body{
     padding-top: 20px;
     font-size: 24px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-
   }
 
   img {
