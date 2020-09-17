@@ -2,15 +2,16 @@ body{
   background-color: #000000;
   color: #ffffff;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-}
 
+}
 h1{
     background-color: #000000;
     color: #ffffff;
     text-align: center;
     font-size: 64px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-}
+
+  }
 
 h2{
     background-color: #000000;
@@ -18,29 +19,35 @@ h2{
     text-align: center;
     font-size: 30px;
     text-shadow:5px 5px 2px #808080;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;    
- }
- 
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+      
+  }
+
 p{
     background-color: #000000;
     color: #ffffff;
     padding-top: 20px;
     font-size: 24px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
   }
+
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 525px;
-    object-fit: cover
+    object-fit: cover;
+    max-width: 100%;
   }
-.intro{
+  
+  
+#intro{
   padding: 25px 25px 25px 25px;
   min-height: 150px;
-  text-align: center;
 }
-.red{
+
+#red{
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   background-color: #ff0000;
@@ -53,19 +60,22 @@ img{
   background-color: #0000ff;
   text-align: left;
 }
+
 #yellow{
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   background-color: #ffff00;
   text-align: right;
 }
+
 #yellow h2{
   color: #000000;
   font-size: 30px;
   text-shadow:5px 5px 2px #c7e2c7;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
  }
-#yellow p{
+
+ #yellow p{
    color: #000000;
  }
 
@@ -74,5 +84,11 @@ img{
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   text-align: left;
+}
+
+footer{
+  text-align: right;
+  padding-bottom: 10px;
+  padding-right: 10px;
 }
 
