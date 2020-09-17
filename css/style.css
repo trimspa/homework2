@@ -35,12 +35,12 @@ img{
     width: 525px;
     object-fit: cover
   }
-#intro{
+.intro{
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   text-align: center;
 }
-#red{
+.red{
   padding: 25px 25px 25px 25px;
   min-height: 150px;
   background-color: #ff0000;
