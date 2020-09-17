@@ -39,3 +39,9 @@ body{
     object-fit: cover
     max-width: 100%;
   }
+.intro {
+  padding: 25px 25px 25px 25px;
+  min-height: 150px;
+  background-color: lightblue;
+  text-align: center;
+}
